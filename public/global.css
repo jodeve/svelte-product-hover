@@ -1,0 +1,16 @@
+*{
+	transition: all .4s;
+}
+
+p{
+	margin: 0;
+}
+
+body{
+	font-family: Poppins;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
